@@ -1,0 +1,8 @@
+tmp/
+sstate-cache/
+downloads/
+build-*/
+*.wic
+*.wic.*
+*.img
+*.log
